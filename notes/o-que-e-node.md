@@ -12,3 +12,8 @@ O Node Package Manager (NPM) é o gerenciador de pacotes do Node, usado para ger
 
 - Identifica a partir do package.json
 - Usado também para executar scripts bash utilizado no node
+
+
+### JavaScript
+
+Linguagem interpretada de alto nível.
