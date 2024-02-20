@@ -57,4 +57,8 @@ Relógio de alta resolução
 
  Os callbacks são, desde o início da programação, uma função chamada automaticamente que é passada como parâmetro para outra função que será executada e/ou terá seu valor retornado após "agora". Portanto, basicamente, callbacks são uma maneira de dizer: "Ei, quando você tiver esse valor, chame essa função aqui". Então, vamos melhorar nosso exemplo:
 
+ ### Event Loop
+
+ 
+
  
